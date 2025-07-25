@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContigoApp.api", "ContigoApp.api\ContigoApp.api.csproj", "{E8777E1A-0966-40F7-8804-B43BE0746DB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContigoApp.app", "ContigoApp.app\ContigoApp.app.csproj", "{5B5E0CD3-6EF9-44C2-8C53-547217E69C2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContigoApp.bd", "ContigoApp.bd\ContigoApp.bd.csproj", "{0FF04088-FCB9-4C28-BE1A-52F3DF57E02C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContigoApp.dominio", "ContigoApp.dominio\ContigoApp.dominio.csproj", "{330291CB-3482-4AFB-8B93-75BA72E97856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8777E1A-0966-40F7-8804-B43BE0746DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8777E1A-0966-40F7-8804-B43BE0746DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8777E1A-0966-40F7-8804-B43BE0746DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8777E1A-0966-40F7-8804-B43BE0746DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B5E0CD3-6EF9-44C2-8C53-547217E69C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5E0CD3-6EF9-44C2-8C53-547217E69C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5E0CD3-6EF9-44C2-8C53-547217E69C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5E0CD3-6EF9-44C2-8C53-547217E69C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FF04088-FCB9-4C28-BE1A-52F3DF57E02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF04088-FCB9-4C28-BE1A-52F3DF57E02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF04088-FCB9-4C28-BE1A-52F3DF57E02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF04088-FCB9-4C28-BE1A-52F3DF57E02C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{330291CB-3482-4AFB-8B93-75BA72E97856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330291CB-3482-4AFB-8B93-75BA72E97856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330291CB-3482-4AFB-8B93-75BA72E97856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330291CB-3482-4AFB-8B93-75BA72E97856}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3560DF6D-5B11-4183-8D60-2C311AB6C4AD}
+	EndGlobalSection
+EndGlobal

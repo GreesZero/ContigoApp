@@ -1,0 +1,13 @@
+C:\Proyectos_Desarrollo\HandTag\Hackaton\ContigoApp\Backend\ContigoApp\ContigoApp.dominio\bin\Debug\net8.0\ContigoApp.dominio.deps.json
+C:\Proyectos_Desarrollo\HandTag\Hackaton\ContigoApp\Backend\ContigoApp\ContigoApp.dominio\bin\Debug\net8.0\ContigoApp.dominio.dll
+C:\Proyectos_Desarrollo\HandTag\Hackaton\ContigoApp\Backend\ContigoApp\ContigoApp.dominio\bin\Debug\net8.0\ContigoApp.dominio.pdb
+C:\Proyectos_Desarrollo\HandTag\Hackaton\ContigoApp\Backend\ContigoApp\ContigoApp.dominio\obj\Debug\net8.0\ContigoApp.dominio.csproj.AssemblyReference.cache
+C:\Proyectos_Desarrollo\HandTag\Hackaton\ContigoApp\Backend\ContigoApp\ContigoApp.dominio\obj\Debug\net8.0\ContigoApp.dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos_Desarrollo\HandTag\Hackaton\ContigoApp\Backend\ContigoApp\ContigoApp.dominio\obj\Debug\net8.0\ContigoApp.dominio.AssemblyInfoInputs.cache
+C:\Proyectos_Desarrollo\HandTag\Hackaton\ContigoApp\Backend\ContigoApp\ContigoApp.dominio\obj\Debug\net8.0\ContigoApp.dominio.AssemblyInfo.cs
+C:\Proyectos_Desarrollo\HandTag\Hackaton\ContigoApp\Backend\ContigoApp\ContigoApp.dominio\obj\Debug\net8.0\ContigoApp.dominio.csproj.CoreCompileInputs.cache
+C:\Proyectos_Desarrollo\HandTag\Hackaton\ContigoApp\Backend\ContigoApp\ContigoApp.dominio\obj\Debug\net8.0\ContigoApp.dominio.sourcelink.json
+C:\Proyectos_Desarrollo\HandTag\Hackaton\ContigoApp\Backend\ContigoApp\ContigoApp.dominio\obj\Debug\net8.0\ContigoApp.dominio.dll
+C:\Proyectos_Desarrollo\HandTag\Hackaton\ContigoApp\Backend\ContigoApp\ContigoApp.dominio\obj\Debug\net8.0\refint\ContigoApp.dominio.dll
+C:\Proyectos_Desarrollo\HandTag\Hackaton\ContigoApp\Backend\ContigoApp\ContigoApp.dominio\obj\Debug\net8.0\ContigoApp.dominio.pdb
+C:\Proyectos_Desarrollo\HandTag\Hackaton\ContigoApp\Backend\ContigoApp\ContigoApp.dominio\obj\Debug\net8.0\ref\ContigoApp.dominio.dll

@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos_Desarrollo\\HandTag\\Hackaton\\ContigoApp\\Backend\\ContigoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5E0CD3-6EF9-44C2-8C53-547217E69C2E}|ContigoApp.app\\ContigoApp.app.csproj|c:\\proyectos_desarrollo\\handtag\\hackaton\\contigoapp\\backend\\contigoapp\\contigoapp.app\\appcontigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5E0CD3-6EF9-44C2-8C53-547217E69C2E}|ContigoApp.app\\ContigoApp.app.csproj|solutionrelative:contigoapp.app\\appcontigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8777E1A-0966-40F7-8804-B43BE0746DB7}|ContigoApp.api\\ContigoApp.api.csproj|c:\\proyectos_desarrollo\\handtag\\hackaton\\contigoapp\\backend\\contigoapp\\contigoapp.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8777E1A-0966-40F7-8804-B43BE0746DB7}|ContigoApp.api\\ContigoApp.api.csproj|solutionrelative:contigoapp.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8777E1A-0966-40F7-8804-B43BE0746DB7}|ContigoApp.api\\ContigoApp.api.csproj|c:\\proyectos_desarrollo\\handtag\\hackaton\\contigoapp\\backend\\contigoapp\\contigoapp.api\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8777E1A-0966-40F7-8804-B43BE0746DB7}|ContigoApp.api\\ContigoApp.api.csproj|solutionrelative:contigoapp.api\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8777E1A-0966-40F7-8804-B43BE0746DB7}|ContigoApp.api\\ContigoApp.api.csproj|c:\\proyectos_desarrollo\\handtag\\hackaton\\contigoapp\\backend\\contigoapp\\contigoapp.api\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8777E1A-0966-40F7-8804-B43BE0746DB7}|ContigoApp.api\\ContigoApp.api.csproj|solutionrelative:contigoapp.api\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8777E1A-0966-40F7-8804-B43BE0746DB7}|ContigoApp.api\\ContigoApp.api.csproj|c:\\proyectos_desarrollo\\handtag\\hackaton\\contigoapp\\backend\\contigoapp\\contigoapp.api\\funcioncontigoapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8777E1A-0966-40F7-8804-B43BE0746DB7}|ContigoApp.api\\ContigoApp.api.csproj|solutionrelative:contigoapp.api\\funcioncontigoapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330291CB-3482-4AFB-8B93-75BA72E97856}|ContigoApp.dominio\\ContigoApp.dominio.csproj|c:\\proyectos_desarrollo\\handtag\\hackaton\\contigoapp\\backend\\contigoapp\\contigoapp.dominio\\contigoapp.dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{330291CB-3482-4AFB-8B93-75BA72E97856}|ContigoApp.dominio\\ContigoApp.dominio.csproj|solutionrelative:contigoapp.dominio\\contigoapp.dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5E0CD3-6EF9-44C2-8C53-547217E69C2E}|ContigoApp.app\\ContigoApp.app.csproj|c:\\proyectos_desarrollo\\handtag\\hackaton\\contigoapp\\backend\\contigoapp\\contigoapp.app\\iappcontigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5E0CD3-6EF9-44C2-8C53-547217E69C2E}|ContigoApp.app\\ContigoApp.app.csproj|solutionrelative:contigoapp.app\\iappcontigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF04088-FCB9-4C28-BE1A-52F3DF57E02C}|ContigoApp.bd\\ContigoApp.bd.csproj|c:\\proyectos_desarrollo\\handtag\\hackaton\\contigoapp\\backend\\contigoapp\\contigoapp.bd\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF04088-FCB9-4C28-BE1A-52F3DF57E02C}|ContigoApp.bd\\ContigoApp.bd.csproj|solutionrelative:contigoapp.bd\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 912,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FuncionContigoApp.cs",
+              "DocumentMoniker": "C:\\Proyectos_Desarrollo\\HandTag\\Hackaton\\ContigoApp\\Backend\\ContigoApp\\ContigoApp.api\\FuncionContigoApp.cs",
+              "RelativeDocumentMoniker": "ContigoApp.api\\FuncionContigoApp.cs",
+              "ToolTip": "C:\\Proyectos_Desarrollo\\HandTag\\Hackaton\\ContigoApp\\Backend\\ContigoApp\\ContigoApp.api\\FuncionContigoApp.cs",
+              "RelativeToolTip": "ContigoApp.api\\FuncionContigoApp.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T22:28:35.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAppContigo.cs",
+              "DocumentMoniker": "C:\\Proyectos_Desarrollo\\HandTag\\Hackaton\\ContigoApp\\Backend\\ContigoApp\\ContigoApp.app\\IAppContigo.cs",
+              "RelativeDocumentMoniker": "ContigoApp.app\\IAppContigo.cs",
+              "ToolTip": "C:\\Proyectos_Desarrollo\\HandTag\\Hackaton\\ContigoApp\\Backend\\ContigoApp\\ContigoApp.app\\IAppContigo.cs",
+              "RelativeToolTip": "ContigoApp.app\\IAppContigo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T22:24:03.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppContigo.cs",
+              "DocumentMoniker": "C:\\Proyectos_Desarrollo\\HandTag\\Hackaton\\ContigoApp\\Backend\\ContigoApp\\ContigoApp.app\\AppContigo.cs",
+              "RelativeDocumentMoniker": "ContigoApp.app\\AppContigo.cs",
+              "ToolTip": "C:\\Proyectos_Desarrollo\\HandTag\\Hackaton\\ContigoApp\\Backend\\ContigoApp\\ContigoApp.app\\AppContigo.cs",
+              "RelativeToolTip": "ContigoApp.app\\AppContigo.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwD4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T22:23:58.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\Proyectos_Desarrollo\\HandTag\\Hackaton\\ContigoApp\\Backend\\ContigoApp\\ContigoApp.bd\\Contexto.cs",
+              "RelativeDocumentMoniker": "ContigoApp.bd\\Contexto.cs",
+              "ToolTip": "C:\\Proyectos_Desarrollo\\HandTag\\Hackaton\\ContigoApp\\Backend\\ContigoApp\\ContigoApp.bd\\Contexto.cs",
+              "RelativeToolTip": "ContigoApp.bd\\Contexto.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T22:04:23.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Proyectos_Desarrollo\\HandTag\\Hackaton\\ContigoApp\\Backend\\ContigoApp\\ContigoApp.api\\StartUp.cs",
+              "RelativeDocumentMoniker": "ContigoApp.api\\StartUp.cs",
+              "ToolTip": "C:\\Proyectos_Desarrollo\\HandTag\\Hackaton\\ContigoApp\\Backend\\ContigoApp\\ContigoApp.api\\StartUp.cs",
+              "RelativeToolTip": "ContigoApp.api\\StartUp.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwB4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T22:01:04.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Proyectos_Desarrollo\\HandTag\\Hackaton\\ContigoApp\\Backend\\ContigoApp\\ContigoApp.api\\host.json",
+              "RelativeDocumentMoniker": "ContigoApp.api\\host.json",
+              "ToolTip": "C:\\Proyectos_Desarrollo\\HandTag\\Hackaton\\ContigoApp\\Backend\\ContigoApp\\ContigoApp.api\\host.json",
+              "RelativeToolTip": "ContigoApp.api\\host.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T22:00:29.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Proyectos_Desarrollo\\HandTag\\Hackaton\\ContigoApp\\Backend\\ContigoApp\\ContigoApp.api\\local.settings.json",
+              "RelativeDocumentMoniker": "ContigoApp.api\\local.settings.json",
+              "ToolTip": "C:\\Proyectos_Desarrollo\\HandTag\\Hackaton\\ContigoApp\\Backend\\ContigoApp\\ContigoApp.api\\local.settings.json",
+              "RelativeToolTip": "ContigoApp.api\\local.settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T22:00:30.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContigoApp.dominio",
+              "DocumentMoniker": "C:\\Proyectos_Desarrollo\\HandTag\\Hackaton\\ContigoApp\\Backend\\ContigoApp\\ContigoApp.dominio\\ContigoApp.dominio.csproj",
+              "RelativeDocumentMoniker": "ContigoApp.dominio\\ContigoApp.dominio.csproj",
+              "ToolTip": "C:\\Proyectos_Desarrollo\\HandTag\\Hackaton\\ContigoApp\\Backend\\ContigoApp\\ContigoApp.dominio\\ContigoApp.dominio.csproj",
+              "RelativeToolTip": "ContigoApp.dominio\\ContigoApp.dominio.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T22:26:23.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 642,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
